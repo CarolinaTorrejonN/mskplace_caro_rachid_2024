@@ -1,0 +1,20 @@
+/* src/assets/styles/RegisterPage.css */
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .registro {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 2%;
+    row-gap: 4px;
+    text-align: center;
+    background-color: white;
+    border-radius: 3%;
+  }
+  
